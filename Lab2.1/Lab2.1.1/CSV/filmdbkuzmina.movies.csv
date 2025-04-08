@@ -1,0 +1,51 @@
+_id,id,title,year,runtime,languages[0],languages[1],languages[2],rating,votes,genres[0],genres[1],genres[2],genres[3],genres[4],plotOutline,coverUrl,actors[0].actorID,actors[1].actorID,actors[2].actorID,actors[3].actorID,actors[4].actorID,actors[5].actorID,actors[6].actorID,actors[7].actorID,actors[8].actorID,actors[9].actorID,actors[10].actorID,actors[11].actorID,actors[0].name,actors[1].name,actors[2].name,actors[3].name,actors[4].name,actors[5].name,actors[6].name,actors[7].name,actors[8].name,actors[9].name,actors[10].name,actors[11].name,directors[0].directorID,directors[1].directorID,directors[0].name,directors[1].name,producers[0].producerID,producers[1].producerID,producers[2].producerID,producers[3].producerID,producers[4].producerID,producers[5].producerID,producers[6].producerID,producers[0].name,producers[1].name,producers[2].name,producers[3].name,producers[4].name,producers[5].name,producers[6].name,rank
+67f49ab8b804415ae1018cda,0110912,Pulp Fiction,1994,154,en,es,fr,8.9,2084331,Crime,Drama,,,,"Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.","https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR1,0,101,150_.jpg",0000619,0001625,0522503,0000237,0000168,0482851,0001844,0824882,0000246,0000609,0000235,0000233,Tim Roth,Amanda Plummer,Laura Lovelace,John Travolta,Samuel L. Jackson,Phil LaMarr,Frank Whaley,Burr Steers,Bruce Willis,Ving Rahmes,Uma Thurman,Quentin Tarantino,0000233,,Quentin Tarantino,,0004744,0000362,0321621,0787834,0792049,0918424,0005544,Lawrence Bender,Danny DeVito,Richard N. Gladstein,Michael Shamberg,Stacey Sher,Bob Weinstein,Harvey Weinstein,
+67f49c032ebc6e5fe05cd447,0133093,The Matrix,1999,136,en,,,8.7,1496538,Action,Sci-Fi,,,,"Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.","https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg",0000206,0000401,0005251,0915989,0287825,0001592,0159059,0032810,0000246,0000609,0000235,0000233,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving,Gloria Foster,Joe Pantoliano,Marcus Chong,Julian Arahanga,Bruce Willis,Ving Rahmes,Uma Thurman,Quentin Tarantino,0905154,0905152,Lana Wachowski,Lilly Wachowski,0075732,0185621,0400492,,,,,Bruce Berman,Dan Cracchiolo,Carol Hughes,,,,,
+67f49db73b10857b47b219b6,0111161,The Shawshank Redemption,1994,,,,,9.2,,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+67f49db73b10857b47b219b7,0068646,The Godfather,1972,,,,,9.2,,Crime,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+67f49db73b10857b47b219b8,0071562,The Godfather: Part II,1974,,,,,9,,Crime,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+67f49db73b10857b47b219b9,0468569,The Dark Knight,2008,,,,,9,,Action,Crime,Drama,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
+67f49db73b10857b47b219ba,0050083,12 Angry Men,1957,,,,,8.9,,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+67f49db73b10857b47b219bb,0108052,Schindler's List,1993,,,,,8.9,,Biography,Drama,History,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6
+67f49db73b10857b47b219bc,0167260,The Lord of the Rings: The Return of the King,2003,,,,,8.9,,Adventure,Drama,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7
+67f49db73b10857b47b219bd,0060196,"The Good, the Bad and the Ugly",1966,,,,,8.8,,Western,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+67f49db73b10857b47b219be,0137523,Fight Club,1999,,,,,9,,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10
+67f49db73b10857b47b219bf,4154796,Avengers: Endgame,2019,,,,,8.8,,Action,Adventure,Fantasy,Sci-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11
+67f49db73b10857b47b219c0,0120737,The Lord of the Rings: The Fellowship of the Ring,2001,,,,,8.8,,Adventure,Drama,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12
+67f49db73b10857b47b219c1,0109830,Forrest Gump,1994,,,,,8.7,,Drama,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13
+67f49db73b10857b47b219c2,0080684,Star Wars: Episode V - The Empire Strikes Back,1980,,,,,8.7,,Action,Adventure,Fantasy,Sci-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14
+67f49db73b10857b47b219c3,1375666,Inception,2010,,,,,8.7,,Action,Adventure,Sci-Fi,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15
+67f49db73b10857b47b219c4,0167261,The Lord of the Rings: The Two Towers,2002,,,,,8.7,,Adventure,Drama,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+67f49db73b10857b47b219c5,0073486,One Flew Over the Cuckoo's Nest,1975,,,,,8.7,,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17
+67f49db73b10857b47b219c6,0099685,Goodfellas,1990,,,,,8.7,,Biography,Crime,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18
+67f49db73b10857b47b219c7,0047478,Seven Samurai,1954,,,,,8.6,,Adventure,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20
+67f49db73b10857b47b219c8,0114369,Se7en,1995,,,,,8.6,,Crime,Drama,Mystery,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21
+67f49db73b10857b47b219c9,0317248,City of God,2002,,,,,8.6,,Crime,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22
+67f49db73b10857b47b219ca,0076759,Star Wars: Episode IV - A New Hope,1977,,,,,8.6,,Action,Adventure,Fantasy,Sci-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23
+67f49db73b10857b47b219cb,0102926,The Silence of the Lambs,1991,,,,,8.6,,Crime,Drama,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24
+67f49db73b10857b47b219cc,0038650,It's a Wonderful Life,1946,,,,,8.6,,Drama,Family,Fantasy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25
+67f49db73b10857b47b219cd,0118799,Life Is Beautiful,1997,,,,,8.6,,Comedy,Drama,Romance,War,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26
+67f49db73b10857b47b219ce,0245429,Spirited Away,2001,,,,,8.5,,Animation,Adventure,Family,Fantasy,Mystery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27
+67f49db73b10857b47b219cf,0120815,Saving Private Ryan,1998,,,,,8.5,,Drama,War,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28
+67f49db73b10857b47b219d0,0114814,The Usual Suspects,1995,,,,,8.5,,Crime,Mystery,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29
+67f49db73b10857b47b219d1,0110413,Léon: The Professional,1994,,,,,8.5,,Action,Crime,Drama,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30
+67f49db73b10857b47b219d2,0120689,The Green Mile,1999,,,,,8.5,,Crime,Drama,Fantasy,Mystery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31
+67f49db73b10857b47b219d3,0816692,Interstellar,2014,,,,,8.5,,Adventure,Drama,Sci-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32
+67f49db73b10857b47b219d4,0054215,Psycho,1960,,,,,8.5,,Horror,Mystery,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33
+67f49db73b10857b47b219d5,0120586,American History X,1998,,,,,8.5,,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34
+67f49db73b10857b47b219d6,0021749,City Lights,1931,,,,,8.5,,Comedy,Drama,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35
+67f49db73b10857b47b219d7,0034583,Casablanca,1942,,,,,8.5,,Drama,Romance,War,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36
+67f49db73b10857b47b219d8,0064116,Once Upon a Time in the West,1968,,,,,8.5,,Western,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37
+67f49db73b10857b47b219d9,0253474,The Pianist,2002,,,,,8.5,,Biography,Drama,Music,War,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38
+67f49db73b10857b47b219da,0027977,Modern Times,1936,,,,,8.5,,Comedy,Drama,Family,Romance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39
+67f49db73b10857b47b219db,1675434,The Intouchables,2011,,,,,8.5,,Biography,Comedy,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40
+67f49db73b10857b47b219dc,0407887,The Departed,2006,,,,,8.5,,Crime,Drama,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41
+67f49db73b10857b47b219dd,0088763,Back to the Future,1985,,,,,8.5,,Adventure,Comedy,Sci-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42
+67f49db73b10857b47b219de,0103064,Terminator 2: Judgment Day,1991,,,,,8.5,,Action,Sci-Fi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43
+67f49db73b10857b47b219df,2582802,Whiplash,2014,,,,,8.5,,Drama,Music,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44
+67f49db73b10857b47b219e0,0110357,The Lion King,1994,,,,,8.5,,Animation,Adventure,Drama,Family,Musical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45
+67f49db73b10857b47b219e1,0047396,Rear Window,1954,,,,,8.5,,Mystery,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46
+67f49db73b10857b47b219e2,0082971,Raiders of the Lost Ark,1981,,,,,8.5,,Action,Adventure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47
+67f49db73b10857b47b219e3,0172495,Gladiator,2000,,,,,8.5,,Action,Adventure,Drama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48
+67f49db73b10857b47b219e4,0482571,The Prestige,2006,,,,,8.5,,Drama,Mystery,Sci-Fi,Thriller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49
+67f49db73b10857b47b219e5,0078788,Apocalypse Now,1979,,,,,8.4,,Drama,War,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50

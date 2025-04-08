@@ -1,0 +1,6 @@
+_id,filmId,title,locations[0],locations[1],locations[2]
+67f49fee3b10857b47b219e6,tt0110912,Pulp Fiction,"Los Angeles, USA","Paris, France",
+67f49fee3b10857b47b219e7,tt0133093,The Matrix,"Sydney, Australia","San Francisco, USA",
+67f49fee3b10857b47b219e8,tt1375666,Inception,"Tokyo, Japan","London, UK",Morocco
+67f49fee3b10857b47b219e9,tt0068646,The Godfather,"New York, USA","Sicily, Italy",
+67f49fee3b10857b47b219ea,tt0088763,Back to the Future,"Los Angeles, USA",Hill Valley (фиктивное место),
