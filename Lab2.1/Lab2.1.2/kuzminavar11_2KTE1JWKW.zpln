@@ -1,0 +1,357 @@
+﻿{
+  "paragraphs": [
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745268261750_1630972909",
+      "id": "paragraph_1745268261750_1630972909",
+      "dateCreated": "2025-04-21T20:44:21+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:26156",
+      "text": "CREATE KEYSPACE shops \nWITH replication = {\n    'class': 'SimpleStrategy',\n    'replication_factor': 1\n};",
+      "dateUpdated": "2025-04-21T20:44:30+0000",
+      "dateFinished": "2025-04-21T20:44:32+0000",
+      "dateStarted": "2025-04-21T20:44:30+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\n\n\n\n\n\n<div class=\"container\">\n<div class=\"row\">\n  <h5>No Result &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    <a role=\"button\" data-toggle=\"collapse\" data-target=\"#dd083bb4-f291-4b80-87f1-74c06d002c94\" aria-expanded=\"false\">\n      <span class=\"text-info\"><strong>Last query execution info</strong></span>\n    </a>\n  </h5>\n</div>\n<div class=\"panel panel-default\">\n  <div id=\"dd083bb4-f291-4b80-87f1-74c06d002c94\" class=\"panel-collapse collapse\" role=\"tabpanel\">\n    <div class=\"panel-body\">\n      <div class=\"row\">\n        <div class=\"col-md-3\"></div>\n        <div class=\"col-md-6 col-offset-md-3 table-responsive table-bordered\">\n          <table class=\"table\">\n            <thead>\n              <tr>\n                <th>Information</th>\n                <th style=\"text-align:left\">Value</th>\n              </tr>\n            </thead>\n            <tbody>\n              <tr>\n                <td>Statement</td>\n                <td style=\"text-align:left\">CREATE KEYSPACE shops \nWITH replication = {\n    'class': 'SimpleStrategy',\n    'replication_factor': 1\n};</td>\n              </tr>\n              <tr>\n                <td>Tried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Queried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Schema in Agreement</td>\n                <td style=\"text-align:left\">true</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745268270796_1596256503",
+      "id": "paragraph_1745268270796_1596256503",
+      "dateCreated": "2025-04-21T20:44:30+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:26236",
+      "text": "USE shops;\n\nCREATE TABLE products (\n    product_id int PRIMARY KEY,\n    name text,\n    price float,\n    category text,\n    stock int\n);",
+      "dateUpdated": "2025-04-21T21:02:00+0000",
+      "dateFinished": "2025-04-21T21:02:02+0000",
+      "dateStarted": "2025-04-21T21:02:00+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\n\n\n\n\n\n<div class=\"container\">\n<div class=\"row\">\n  <h5>No Result &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    <a role=\"button\" data-toggle=\"collapse\" data-target=\"#bd410b15-8f66-41c2-96e6-ce55d0aee73b\" aria-expanded=\"false\">\n      <span class=\"text-info\"><strong>Last query execution info</strong></span>\n    </a>\n  </h5>\n</div>\n<div class=\"panel panel-default\">\n  <div id=\"bd410b15-8f66-41c2-96e6-ce55d0aee73b\" class=\"panel-collapse collapse\" role=\"tabpanel\">\n    <div class=\"panel-body\">\n      <div class=\"row\">\n        <div class=\"col-md-3\"></div>\n        <div class=\"col-md-6 col-offset-md-3 table-responsive table-bordered\">\n          <table class=\"table\">\n            <thead>\n              <tr>\n                <th>Information</th>\n                <th style=\"text-align:left\">Value</th>\n              </tr>\n            </thead>\n            <tbody>\n              <tr>\n                <td>Statement</td>\n                <td style=\"text-align:left\">CREATE TABLE products (\n    product_id int PRIMARY KEY,\n    name text,\n    price float,\n    category text,\n    stock int\n);</td>\n              </tr>\n              <tr>\n                <td>Tried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Queried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Schema in Agreement</td>\n                <td style=\"text-align:left\">true</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745269356817_915470878",
+      "id": "paragraph_1745269356817_915470878",
+      "dateCreated": "2025-04-21T21:02:36+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:26452",
+      "text": "DESCRIBE TABLE products;",
+      "dateUpdated": "2025-04-21T21:03:09+0000",
+      "dateFinished": "2025-04-21T21:03:09+0000",
+      "dateStarted": "2025-04-21T21:03:09+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\n\n<br/>\n<br/>\n<nav class=\"navbar navbar-default\">\n    <ul class=\"nav navbar-nav\">\n        \n        <li>\n            <a><strong>DESCRIBE TABLE products;</strong></a>\n        </li>\n    </ul>\n    <ul class=\"nav navbar-nav navbar-right\">\n        <li class=\"dropdown\">\n            <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">\n                <strong>Legend</strong>\n                <span class=\"caret\"></span>\n            </a>\n            <ul class=\"dropdown-menu\">\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-dashboard text-muted\" aria-hidden=\"true\" ></span>&nbsp;Cluster\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-folder-open text-danger\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Keyspace\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-copyright-mark text-warning\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;UDT\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-th-list text-primary\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Table\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-eye-open text-primary\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Materialized View\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-random text-success\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Function\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-retweet text-success\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Aggregate\n                    </a>\n                </li>\n                <li role=\"separator\" class=\"divider text-muted\"></li>\n                <li class=\"dropdown-header\"><span class=\"text-primary\">Table icons</span></li>\n                <li class=\"bg-info\">\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-fullscreen\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Partition Key\n                    </a>\n                </li>\n                <li class=\"bg-warning\">\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-pushpin\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Static Column\n                    </a>\n                </li>\n                <li class=\"bg-success\">\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-sort\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Clustering Column\n                    </a>\n                </li>\n                <li class=\"bg-success\">\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-sort-by-attributes\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Clustering Order ASC\n                    </a>\n                </li>\n                <li class=\"bg-success\">\n                    <a href=\"#\">\n                        <span class=\"glyphicon glyphicon-sort-by-attributes-alt\" aria-hidden=\"true\" ></span>&nbsp;&nbsp;Clustering Order DESC\n                    </a>\n                </li>\n            </ul>\n        </li>\n        <li>\n            <a href=\"#\"></a>\n        </li>\n    </ul>\n</nav>\n<hr/>\n\n<div class=\"row\">\n    <div class=\"col-md-2\"></div>\n    <div class=\"col-md-8 col-offset-md-2\">\n        <div class=\"panel panel-default table-responsive table-bordered\">\n            <table class=\"table\">\n                \n                <caption><h4 class=\"text-primary\"><span class=\"glyphicon glyphicon-th-list\"></span>&nbsp;products</h4></caption>\n                                <thead>\n                    <tr>\n                        <th class=\"col-md-4\" width=\"10%\">Column Type</th>\n                        <th class=\"col-md-4\">Column Name</th>\n                        <th class=\"col-md-4\" style=\"text-align:left\">Data Type</th>\n                    </tr>\n                </thead>\n                <tbody>\n                                            \n\n                    <tr class=\"info\">\n                        <td class=\"col-md-4\" width=\"10%\">\n                            <span class=\"glyphicon glyphicon-fullscreen\" title=\"Partition Key\"></span>\n                        </td>\n                        <td class=\"col-md-4\">product_id</td>\n                        <td class=\"col-md-4\" style=\"text-align:left\">int</td>\n                    </tr>\n                                                                    \n                    <tr>\n                        <td class=\"col-md-4\" width=\"10%\"></td>\n                        <td class=\"col-md-4\">category</td>\n                        <td class=\"col-md-4\" style=\"text-align:left\">text</td>\n                    </tr>\n                                                                    \n                    <tr>\n                        <td class=\"col-md-4\" width=\"10%\"></td>\n                        <td class=\"col-md-4\">name</td>\n                        <td class=\"col-md-4\" style=\"text-align:left\">text</td>\n                    </tr>\n                                                                    \n                    <tr>\n                        <td class=\"col-md-4\" width=\"10%\"></td>\n                        <td class=\"col-md-4\">price</td>\n                        <td class=\"col-md-4\" style=\"text-align:left\">float</td>\n                    </tr>\n                                                                    \n                    <tr>\n                        <td class=\"col-md-4\" width=\"10%\"></td>\n                        <td class=\"col-md-4\">stock</td>\n                        <td class=\"col-md-4\" style=\"text-align:left\">int</td>\n                    </tr>\n                                                            </tbody>\n            </table>\n            <div class=\"panel-footer\">\n                <a data-toggle=\"collapse\" data-target=\"#0769c0b0-1ef4-11f0-a72c-39e150127289_asCQL\" class=\"text-primary\">\n                    <strong>As CQL statement</strong>\n                    <span class=\"caret\"></span>\n                </a>\n                <br/><br/>\n                <div class=\"collapse\" id=\"0769c0b0-1ef4-11f0-a72c-39e150127289_asCQL\">\n                    <pre class=\"well\">CREATE TABLE shops.products (\n    product_id int,\n    category text,\n    name text,\n    price float,\n    stock int,\n    PRIMARY KEY (product_id)\n) WITH bloom_filter_fp_chance = 0.01\n    AND caching = {'keys':'ALL','rows_per_partition':'NONE'}\n    AND comment = ''\n    AND compaction = {'class':'org.apache.cassandra.db.compaction.SizeTieredCompactionStrategy','max_threshold':'32','min_threshold':'4'}\n    AND compression = {'chunk_length_in_kb':'64','class':'org.apache.cassandra.io.compress.LZ4Compressor'}\n    AND crc_check_chance = 1.0\n    AND dclocal_read_repair_chance = 0.1\n    AND default_time_to_live = 0\n    AND extensions = {}\n    AND gc_grace_seconds = 864000\n    AND max_index_interval = 2048\n    AND memtable_flush_period_in_ms = 0\n    AND min_index_interval = 128\n    AND read_repair_chance = 0.0\n    AND speculative_retry = '99PERCENTILE';</pre>\n                </div>\n            </div>\n        </div>\n            </div>\n    <div class=\"col-md-2\"></div>\n</div>"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745269389311_1363140570",
+      "id": "paragraph_1745269389311_1363140570",
+      "dateCreated": "2025-04-21T21:03:09+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:26565",
+      "text": "INSERT INTO products (product_id, name, price, category, stock) \nVALUES (1, 'Laptop', 357000, 'Electronics', 15);\n\nINSERT INTO products (product_id, name, price, category, stock) \nVALUES (2, 'Smartphone', 109699, 'Electronics', 25);\n\nINSERT INTO products (product_id, name, price, category, stock) \nVALUES (3, 'Desk Chair', 12570, 'Furniture', 8);\n\nINSERT INTO products (product_id, name, price, category, stock) \nVALUES (4, 'Coffee cup', 199, 'Kitchen', 50);",
+      "dateUpdated": "2025-04-21T21:07:17+0000",
+      "dateFinished": "2025-04-21T21:07:17+0000",
+      "dateStarted": "2025-04-21T21:07:17+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\n\n\n\n\n\n<div class=\"container\">\n<div class=\"row\">\n  <h5>No Result &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    <a role=\"button\" data-toggle=\"collapse\" data-target=\"#de3dd882-0597-48cd-8b83-187a4b7dac10\" aria-expanded=\"false\">\n      <span class=\"text-info\"><strong>Last query execution info</strong></span>\n    </a>\n  </h5>\n</div>\n<div class=\"panel panel-default\">\n  <div id=\"de3dd882-0597-48cd-8b83-187a4b7dac10\" class=\"panel-collapse collapse\" role=\"tabpanel\">\n    <div class=\"panel-body\">\n      <div class=\"row\">\n        <div class=\"col-md-3\"></div>\n        <div class=\"col-md-6 col-offset-md-3 table-responsive table-bordered\">\n          <table class=\"table\">\n            <thead>\n              <tr>\n                <th>Information</th>\n                <th style=\"text-align:left\">Value</th>\n              </tr>\n            </thead>\n            <tbody>\n              <tr>\n                <td>Statement</td>\n                <td style=\"text-align:left\">INSERT INTO products (product_id, name, price, category, stock) \nVALUES (4, 'Coffee cup', 199, 'Kitchen', 50);</td>\n              </tr>\n              <tr>\n                <td>Tried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Queried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Schema in Agreement</td>\n                <td style=\"text-align:left\">true</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table",
+              "height": 300,
+              "optionOpen": false,
+              "setting": {
+                "table": {
+                  "tableGridState": {},
+                  "tableColumnTypeState": {
+                    "names": {
+                      "product_id": "string",
+                      "category": "string",
+                      "name": "string",
+                      "price": "string",
+                      "stock": "string"
+                    },
+                    "updated": false
+                  },
+                  "tableOptionSpecHash": "[{\"name\":\"useFilter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable filter for columns\"},{\"name\":\"showPagination\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable pagination for better navigation\"},{\"name\":\"showAggregationFooter\",\"valueType\":\"boolean\",\"defaultValue\":false,\"widget\":\"checkbox\",\"description\":\"Enable a footer for displaying aggregated values\"}]",
+                  "tableOptionValue": {
+                    "useFilter": false,
+                    "showPagination": false,
+                    "showAggregationFooter": false
+                  },
+                  "updated": false,
+                  "initialized": false
+                }
+              },
+              "commonSetting": {}
+            }
+          }
+        },
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745269510689_1610148487",
+      "id": "paragraph_1745269510689_1610148487",
+      "dateCreated": "2025-04-21T21:05:10+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:26655",
+      "text": "SELECT *\nFROM shops.products;",
+      "dateUpdated": "2025-04-21T21:07:18+0000",
+      "dateFinished": "2025-04-21T21:07:19+0000",
+      "dateStarted": "2025-04-21T21:07:18+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "product_id\tcategory\tname\tprice\tstock\n1\tElectronics\tLaptop\t357000\t15\n2\tElectronics\tSmartphone\t109699\t25\n4\tKitchen\tCoffee cup\t199\t50\n3\tFurniture\tDesk Chair\t12570\t8\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745269544644_80325138",
+      "id": "paragraph_1745269544644_80325138",
+      "dateCreated": "2025-04-21T21:05:44+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:26751",
+      "text": "UPDATE products \nSET stock = 20 \nWHERE product_id = 2;",
+      "dateUpdated": "2025-04-21T21:07:54+0000",
+      "dateFinished": "2025-04-21T21:07:54+0000",
+      "dateStarted": "2025-04-21T21:07:54+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\n\n\n\n\n\n<div class=\"container\">\n<div class=\"row\">\n  <h5>No Result &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    <a role=\"button\" data-toggle=\"collapse\" data-target=\"#657cb2a9-f1b2-43d9-9303-91f649e86ed3\" aria-expanded=\"false\">\n      <span class=\"text-info\"><strong>Last query execution info</strong></span>\n    </a>\n  </h5>\n</div>\n<div class=\"panel panel-default\">\n  <div id=\"657cb2a9-f1b2-43d9-9303-91f649e86ed3\" class=\"panel-collapse collapse\" role=\"tabpanel\">\n    <div class=\"panel-body\">\n      <div class=\"row\">\n        <div class=\"col-md-3\"></div>\n        <div class=\"col-md-6 col-offset-md-3 table-responsive table-bordered\">\n          <table class=\"table\">\n            <thead>\n              <tr>\n                <th>Information</th>\n                <th style=\"text-align:left\">Value</th>\n              </tr>\n            </thead>\n            <tbody>\n              <tr>\n                <td>Statement</td>\n                <td style=\"text-align:left\">UPDATE products \nSET stock = 20 \nWHERE product_id = 2;</td>\n              </tr>\n              <tr>\n                <td>Tried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Queried Hosts</td>\n                <td style=\"text-align:left\">cassandra-1:9042</td>\n              </tr>\n              <tr>\n                <td>Schema in Agreement</td>\n                <td style=\"text-align:left\">true</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/undefined",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745269674858_1229180242",
+      "id": "paragraph_1745269674858_1229180242",
+      "dateCreated": "2025-04-21T21:07:54+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:29139",
+      "text": "SELECT *\nFROM shops.products;",
+      "dateUpdated": "2025-04-21T21:08:18+0000",
+      "dateFinished": "2025-04-21T21:08:19+0000",
+      "dateStarted": "2025-04-21T21:08:18+0000",
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "product_id\tcategory\tname\tprice\tstock\n1\tElectronics\tLaptop\t357000\t15\n2\tElectronics\tSmartphone\t109699\t20\n4\tKitchen\tCoffee cup\t199\t50\n3\tFurniture\tDesk Chair\t12570\t8\n"
+          }
+        ]
+      }
+    },
+    {
+      "user": "anonymous",
+      "progress": 0,
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/undefined"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1745269698914_1352997262",
+      "id": "paragraph_1745269698914_1352997262",
+      "dateCreated": "2025-04-21T21:08:18+0000",
+      "status": "READY",
+      "focus": true,
+      "$$hashKey": "object:29232"
+    }
+  ],
+  "name": "kuzminavar11",
+  "id": "2KTE1JWKW",
+  "defaultInterpreterGroup": "cassandra",
+  "version": "0.10.0",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false,
+    "looknfeel": "default",
+    "personalizedMode": "false"
+  },
+  "info": {},
+  "path": "/kuzminavar11"
+}
